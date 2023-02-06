@@ -1,2 +1,12 @@
-# Algorithm-Study
-Ssafy 9th class7 algorithm study
+# 알고리즘 스터디
+Ssafy 9기 7반
+
+## 규칙
+solved.ac class 순서대로 하루에 한 문제씩 풀기
+다른 사람이 알아볼 수 있게 주석 달기
+변수와 함수 이름은 역할을 알 수 있게 붙이기
+code 마지막 한 줄은 비워두기
+  -> git 규칙입니다! 마지막 줄이 비어 있지 않으면 에러발생
+
+
+## 
