@@ -13,7 +13,7 @@ Ssafy 9기 7반
 - 변수와 함수 이름은 역할을 알 수 있게 붙이기
 
 - code 마지막 한 줄은 비워두기
-        : git 규칙입니다! 마지막 줄이 비어 있지 않으면 에러발생
+        - git 규칙입니다! 마지막 줄이 비어 있지 않으면 에러발생
 
 
 
@@ -32,23 +32,6 @@ CLASS1
       ㄴ 김싸피
           ㄴ 1000.java
 ````
-
-
-
-
-## git 사용 방법
-- git branch 생성하기
- 
-        $ git barnch <branchName>
-      
-- 생성한 branch로 이동하기
-
-        $ git checkout <branchName>
-        
-- 원격 저장소에 push하기
-
-        $ git push -u origin <branchName>
-
 
 
 
