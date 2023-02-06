@@ -38,6 +38,7 @@ CLASS1
 
 ### 문제 풀이 일정
 |   | 문제1 | 문제2 | 문제3 |
+|---|---|---|---|
 | 1주차 | [1018](https://www.acmicpc.net/problem/1018) | [1929](https://www.acmicpc.net/problem/1929) | [10828](https://www.acmicpc.net/problem/10828) |
 
 
