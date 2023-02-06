@@ -4,7 +4,11 @@ Ssafy 9기 7반
 
 
 
+
 ### 규칙
+
+-------
+
 - solved.ac class 순서대로 하루에 한 문제씩 풀기
 
 - 다른 사람이 알아볼 수 있게 주석 달기
@@ -20,6 +24,9 @@ Ssafy 9기 7반
 
 
 ### 폴더 관리
+
+-----------
+
 클래스 별, 문제 별로 만들어진 branch 안에 
 
 각자의 이름으로 branch를 생성하고 
@@ -37,6 +44,9 @@ CLASS1
 
 
 ### 문제 풀이 일정
+
+-----------
+
 |   | 문제1 | 문제2 | 문제3 |
 |---|---|---|---|
 | 1주차 | [1018](https://www.acmicpc.net/problem/1018) | [1929](https://www.acmicpc.net/problem/1929) | [10828](https://www.acmicpc.net/problem/10828) |
